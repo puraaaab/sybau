@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MediaExport name="Export__Svnit-Towards Parle Point_Monday July 27 2026121926  7608450">
+  <StartTime>2026-07-27 05:37:00Z</StartTime>
+  <EndTime>2026-07-27 05:38:00Z</EndTime>
+  <Site name="MSTSRV76" id="B019A83D-EDFD-4402-A3BE-47FEBB1A290C" masterTimeZoneId="India Standard Time" />
+  <Camera name="Svnit-Towards Parle Point" resourceId="1533" />
+  <MediaClips folder=".">
+    <MediaClip id="1" file="Export__Svnit-Towards Parle Point_Monday July 27 2026121926  7608450.avi" />
+  </MediaClips>
+</MediaExport>

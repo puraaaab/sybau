@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MediaExport name="Export__Rokadiya Hanuman-Towards JoganiMata Mandir_Monday July 27 2026123201  7356363">
+  <StartTime>2026-07-27 05:39:40Z</StartTime>
+  <EndTime>2026-07-27 05:41:40Z</EndTime>
+  <Site name="MSTSRV76" id="B019A83D-EDFD-4402-A3BE-47FEBB1A290C" masterTimeZoneId="India Standard Time" />
+  <Camera name="Rokadiya Hanuman-Towards JoganiMata Mandir" resourceId="1511" />
+  <MediaClips folder=".">
+    <MediaClip id="1" file="Export__Rokadiya Hanuman-Towards JoganiMata Mandir_Monday July 27 2026123201  7356363.avi" />
+  </MediaClips>
+</MediaExport>
